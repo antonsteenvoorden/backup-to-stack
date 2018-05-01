@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /<path_to_parent_folder>/backup-to-stack/
+source venv/bin/activate
+python main.py

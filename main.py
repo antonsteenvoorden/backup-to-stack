@@ -46,6 +46,7 @@ def main(config):
 
 
 if __name__ == '__main__':
+    print("\n")
     __location__ = os.path.realpath(
         os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
@@ -56,4 +57,4 @@ if __name__ == '__main__':
     with open(os.path.join(__location__, 'config.json'), 'r') as f:
         config = json.load(f)
     main(config)
-    print("Done.\n")
+    print("Done")
