@@ -1,0 +1,5 @@
+config.json
+venv/*
+*.zip
+*.DS_Store
+*.idea/

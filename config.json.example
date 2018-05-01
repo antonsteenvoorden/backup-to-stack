@@ -1,0 +1,10 @@
+{
+  "webdav": {
+    "webdav_hostname": "https://<name>.stackstorage.com",
+    "webdav_login": "<username>",
+    "webdav_password": "<password>",
+    "webdav_root": "/remote.php/webdav/"
+  },
+  "filename": "IWLA",
+  "path": "/Users/<name>/School/Jaar4/IWLA/"
+}
